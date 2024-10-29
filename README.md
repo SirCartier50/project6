@@ -30,7 +30,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<a href='http://i.imgur.com/link/to/your/gif/file.gif'>Video Walkthrough</a>
+<a href='https://imgur.com/N1dkijY'>Video Walkthrough</a>
 
 GIF created with [Kap](https://getkap.co/) for macOS
 
